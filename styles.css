@@ -1,0 +1,71 @@
+body {
+    font-size: 100%;
+    background-color: #0385FF;
+}
+
+header {
+    background-color: #05F6FF;
+    font-family: "Playfair Display", serif;
+    padding-bottom: 1%;
+}
+
+.headerkirjaimet {
+    color: black;
+    padding: 1%;
+}
+
+.navipainikkeet {
+    font-size: 22px;
+}
+
+.sisalto {
+    color: white;
+    font-family: "Ubuntu", serif;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.sisalto p {
+    line-height: 1.5;
+}
+
+.sisalto h2 {
+    color: black;
+    font-family: "Playfair Display", serif;
+}
+
+footer {
+    background-color: #05F6FF;
+    font-family: "Playfair Display", serif;
+    color: black;
+    text-align: center;
+    font-size: 22px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    padding-bottom: 20px;
+}
+
+.ajtkuvat {
+    padding-top: 150px;
+}
+
+.alaotsikko {
+    display: block;
+    margin-top: 50px;
+}
+
+.linkki {
+    color: black;
+}
+
+.puhelimessa {
+    display: block;
+    width: 30%;
+}
